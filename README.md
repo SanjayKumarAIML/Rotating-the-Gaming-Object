@@ -78,7 +78,7 @@ public class Cube : MonoBehaviour
 ## Output:
 ![image](./out1.png)
 
-https://user-images.githubusercontent.com/93427017/225445370-d28d41da-6c5a-4fa1-a7c7-dea8d6587a7c.mp4
+https://user-images.githubusercontent.com/93427246/225705324-5741cccc-99e3-43fc-b39a-6b548ee38a87.mp4
 
 
 ## Result:
