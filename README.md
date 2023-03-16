@@ -32,7 +32,7 @@ To develop a 3D application for rotating the gaming objects in unity.
 Program created by: Sanjay Kumar S S
 Register number: 212221240048
 ```
-### Rotate Along X-Axis(Capsule):
+### Rotate along Y:
 ```C#
 using System.Collections;
 using System.Collections.Generic;
