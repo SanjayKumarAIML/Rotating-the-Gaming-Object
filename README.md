@@ -32,28 +32,6 @@ To develop a 3D application for rotating the gaming objects in unity.
 Program created by: Sanjay Kumar S S
 Register number: 212221240048
 ```
-### Rotate Along Y-Axis(Cylinder):
-```C#
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Sphere : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        transform.RotateAround(Vector3.up, Vector3.right, 90 * Time.deltaTime);
-    }
-}
-
-```
 ### Rotate Along X-Axis(Capsule):
 ```C#
 using System.Collections;
