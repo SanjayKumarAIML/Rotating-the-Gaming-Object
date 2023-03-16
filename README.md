@@ -32,7 +32,7 @@ To develop a 3D application for rotating the gaming objects in unity.
 Program created by: Sanjay Kumar S S
 Register number: 212221240048
 ```
-### Rotate Along Y-Axis(Sphere):
+### Rotate Along Y-Axis(Cylinder):
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -54,7 +54,7 @@ public class Sphere : MonoBehaviour
 }
 
 ```
-### Rotate Along X-Axis(Cube):
+### Rotate Along X-Axis(Capsule):
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -76,7 +76,7 @@ public class Cube : MonoBehaviour
 }
 ```
 ## Output:
-![image](./out.png)
+![image](./out1.png)
 
 https://user-images.githubusercontent.com/93427017/225445370-d28d41da-6c5a-4fa1-a7c7-dea8d6587a7c.mp4
 
