@@ -76,7 +76,7 @@ public class Cube : MonoBehaviour
 }
 ```
 ## Output:
-![image](./out1.png)
+![out1](https://user-images.githubusercontent.com/93427246/225705867-d2ddf026-3ab9-4e1f-aa16-9bf70688b711.png)
 
 https://user-images.githubusercontent.com/93427246/225705324-5741cccc-99e3-43fc-b39a-6b548ee38a87.mp4
 
